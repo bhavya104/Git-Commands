@@ -1,4 +1,5 @@
-Git Commands
+============
+# GIT COMMANDS
 ============
 ___
 
