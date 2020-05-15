@@ -1,4 +1,4 @@
-# _GIT COMMANDS
+# GIT COMMANDS
 ============
 ___
 
